@@ -51,7 +51,7 @@ const Movies = () => {
                         placeholder="Search movies..."
                         value={searchTerm}
                         onChange={(e) => setSearchTerm(e.target.value)}
-                        className="px-4 sm:px-10 py-1 sm:py-2 rounded-full border border-gray-400 focus:outline-none focus:ring-2 focus:ring-cyan-400 text-sm sm:text-base"
+                        className="px-3 sm:px-10 py-1 sm:py-2 rounded-full border border-gray-400 focus:outline-none focus:ring-2 focus:ring-cyan-400 text-sm sm:text-base"
                     />
                     <select
                         value={sortOrder}

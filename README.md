@@ -1,12 +1,27 @@
-# React + Vite
+# 🎬 Movie Panda
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movie Panda is a movie discovery web app where users can browse, search, and filter movies with an intuitive UI.  
+Built with **React + Vite + Tailwind CSS** and deployed on **Firebase Hosting**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+🔗 [Movie Panda](https://movie-panda.web.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- 🔍 Search movies by title
+- 🎭 Filter movies by category (Action, Thriller, Animation, Horror, Drama, Sci-Fi)
+- ⏳ Sort movies by newest or oldest release date
+- 📱 Fully responsive design with Tailwind CSS
+- ⚡ Lightning fast thanks to Vite bundling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, Tailwind CSS
+- **Hosting:** Firebase Hosting
+- **Version Control:** Git & GitHub
+
+
+
+
